@@ -60,7 +60,7 @@ Microsoft 365 Certified: Copilot and Agent Administration Fundamentals. Beginner
 
 - [Exam page](https://learn.microsoft.com/credentials/certifications/exams/ab-900/) - Official.
 - [Study guide (skills measured)](https://learn.microsoft.com/credentials/certifications/resources/study-guides/ab-900) - Official. Data protection and governance 35-40%, Microsoft 365 services and security 30-35%, Copilot and agent administration 25-30%.
-- [AB-900 practice test](https://www.certifydeck.com/en/certifications/ab-900) - (CertifyDeck) Practice by domain and timed mock exam, English and Spanish, first category free.
+- [AB-900 practice test](https://www.certifydeck.com/en/certifications/ab-900) - (CertifyDeck) Practice by domain and timed mock exam, English and Spanish, start for free.
 - [AB-900 vs MS-900](https://www.certifydeck.com/en/articulos/ab-900-vs-ms-900) - (CertifyDeck) How the new fundamentals exam relates to MS-900.
 
 ### AB-730 AI Business Professional
@@ -176,7 +176,7 @@ Knowledge does not expire; these exams do. Each entry links to the closest curre
 - [Microsoft certification voucher offers](https://github.com/nisalgunawardhana/microsoft-certification-voucher-offers) - Community. Tracks current vouchers, beta exams and eligibility rules.
 - [Exam Replay](https://learn.microsoft.com/credentials/certifications/deals) - Official. Paid option that includes a retake.
 - [Microsoft Q&A](https://learn.microsoft.com/answers/) - Official forum for technical questions while studying.
-- [CertifyDeck](https://www.certifydeck.com) - (CertifyDeck) Practice tests, timed mock exams, study guides and cheat sheets in Spanish and English; the first category of every certification is free with no sign-up.
+- [CertifyDeck](https://www.certifydeck.com) - (CertifyDeck) Practice tests, timed mock exams, study guides and cheat sheets in Spanish and English; you can start for free with no sign-up.
 
 ## Contributing
 
