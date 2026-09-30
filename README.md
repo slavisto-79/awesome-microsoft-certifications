@@ -62,6 +62,7 @@ Microsoft 365 Certified: Copilot and Agent Administration Fundamentals. Beginner
 - [Study guide (skills measured)](https://learn.microsoft.com/credentials/certifications/resources/study-guides/ab-900) - Official. Data protection and governance 35-40%, Microsoft 365 services and security 30-35%, Copilot and agent administration 25-30%.
 - [AB-900 practice test](https://www.certifydeck.com/en/certifications/ab-900) - (CertifyDeck) Practice by domain and timed mock exam, English and Spanish, start for free.
 - [AB-900 vs MS-900](https://www.certifydeck.com/en/articulos/ab-900-vs-ms-900) - (CertifyDeck) How the new fundamentals exam relates to MS-900.
+- [ExamIT Lab AB-900](https://examitlab.com/exams/ab-900) - Free practice questions with explanations, plus hands-on labs in a simulated Microsoft 365 admin center.
 
 ### AB-730 AI Business Professional
 
@@ -84,6 +85,7 @@ Microsoft Certified: Azure Administrator Associate. 100 minutes, renews every 12
 - [Free practice assessment](https://learn.microsoft.com/credentials/certifications/azure-administrator/practice/assessment?assessment-type=practice&assessmentId=21) - Official. Short, same style as the real questions.
 - [Exam readiness videos](https://aka.ms/AZ104-ExamPrep) - Official. Microsoft's exam prep series.
 - [AZ-104 practice test](https://www.certifydeck.com/en/certifications/az-104) - (CertifyDeck) Practice by domain and timed mock exam.
+- [ExamIT Lab AZ-104](https://examitlab.com/exams/az-104) - Free practice questions with explanations, plus hands-on labs in a simulated Azure portal.
 
 ### PL-300 Power BI Data Analyst
 
@@ -118,6 +120,7 @@ Microsoft Certified: Identity and Access Administrator Associate. 100 minutes, r
 - [Study guide (skills measured)](https://aka.ms/sc300-StudyGuide) - Official. User identities, authentication and access, workload identities, identity governance.
 - [Free practice assessment](https://learn.microsoft.com/credentials/certifications/identity-and-access-administrator/practice/assessment?assessment-type=practice&assessmentId=60) - Official.
 - [SC-300 practice test](https://www.certifydeck.com/en/certifications/sc-300) - (CertifyDeck) Microsoft Entra scenarios by domain.
+- [ExamIT Lab SC-300](https://examitlab.com/exams/sc-300) - Free practice questions with explanations, plus hands-on labs in a simulated Microsoft Entra admin center.
 
 ### AB-620 AI Agent Builder
 
